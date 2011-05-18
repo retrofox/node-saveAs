@@ -1,0 +1,10 @@
+{
+  "name": "node-saveAs",
+  "description": "saveAs",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "htmlparser": ">= 1.7.3"
+  },
+  "engines": { "node": ">= 0.4.0" }
+}
