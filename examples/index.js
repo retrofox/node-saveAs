@@ -3,11 +3,11 @@ var saveAs = require('../lib/saveas');
 
 // request options
 var reqOpts = {
-      host: 'www.google.com.ar'
+      host: 'about.me'
     , port: 80
     , method: 'GET'
 //    , headers: req.headers
-    , path: '/'
+    , path: '/retrofox'
   }
 
 
