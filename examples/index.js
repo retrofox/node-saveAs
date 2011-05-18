@@ -12,13 +12,10 @@ var reqOpts = {
 
 
 // init request to google
-saveAs.save(reqOpts, 'google', function(err, stats) {
-
-  console.log('reques done');
-
+saveAs.save(reqOpts, 'about.me.retrofox', function(err, stats) {
   console.log("-- data ----------------------------------------------------");
   console.log(err);
+  console.log(stats);
   console.log("---------------------------------------------------- data --");
-  
 })
 
