@@ -1,5 +1,13 @@
 node-saveAs
 ===========
+This module allows you to save an entire Web site.
+
+## Example
+
+      var http = require('http');
+
+  - 
+
 
 ## License 
 
