@@ -17,8 +17,8 @@ var options = {
       , AllowFromExternalHost: true
       , folders: {
           images: 'images/'
-        , js: 'javascript/'
-        , css: 'styles/'
+        , javascripts: 'javascript/'
+        , stylesheets: 'styles/'
       }
     }
 
